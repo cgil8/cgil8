@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cgil8
 - 👀 I’m interested in Education
-- 🌱 I’m currently learning English
-- 💞️ I’m looking to collaborate on programming JAVA and Python
+- 🌱 I’m currently learning Python programming.
 
 
 <!---
